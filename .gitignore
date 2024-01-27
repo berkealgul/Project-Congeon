@@ -1,0 +1,16 @@
+
+.hg/
+Binaries/
+DerivedDataCache/
+.vs/
+build/
+Intermediate/
+PACKPLUGIN/
+COMPPLUGIN/
+Saved/
+*.orig
+*.sln
+*.xlsx
+
+# Dont need to push starter content
+Content/StarterContent
